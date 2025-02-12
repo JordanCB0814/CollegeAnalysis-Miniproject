@@ -1,2 +1,2 @@
 # CollegeAnalysis
-In this mini project we clean and analyze data generated from FiveThirtyEight. We analyze the all_ages.csv file and the women_stem.csv file creating visualizations to recognize patterns within the data. 
+In this mini project we clean and analyze data generated from FiveThirtyEight. Creating Visualizations in order to illustrate which majors are more abundant from universities within the United States. Along with showing the employment rates of each major and their average salaries.
