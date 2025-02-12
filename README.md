@@ -1,2 +1,2 @@
 # CollegeAnalysis
-In this mini project we clean and analyze data generated from FiveThirtyEight. Creating Visualizations in order to illustrate which majors are more abundant from universities within the United States. Along with showing the employment rates of each major and their average salaries, and illustrating the gender ratio between majors and salories as well.
+In this mini project we clean and analyze data generated from FiveThirtyEight. Creating Visualizations in order to illustrate which majors are more abundant from universities within the United States. Along with showing the employment rates of each major and their average salaries, and illustrating the gender ratio between majors and salaries as well.
